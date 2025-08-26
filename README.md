@@ -1,2 +1,2 @@
-# medienprojekt-documentation
+# Medienprojekt Dokumentation
 
