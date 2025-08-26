@@ -1,4 +1,5 @@
-# Projektdokumentation mit Markdown – Eine Einführung für Einsteiger
+# Medienprojekt Dokumentation
+Version: 1.0.0
 
 Diese Anleitung erklärt, wie du eine Projektdokumentation mit Markdown erstellst – speziell für Einsteiger, die noch keine Erfahrung mit Markdown haben.
 
@@ -61,5 +62,5 @@ print("Hallo Welt!")
 ## Weitere Ressourcen
 - [Markdown Guide (deutsch)](https://www.markdownguide.org/basic-syntax/)
 - [Detaillierte Anleitung (englisch)](https://www.markdownguide.org/)
-# Medienprojekt Dokumentation
+
 
